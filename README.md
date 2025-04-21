@@ -10,15 +10,6 @@ This project is developed  with the help of the Spring-Boot framework. The main 
 ![Orange Black Hummingbird Tech, Digital Bird Logo Template](https://user-images.githubusercontent.com/101379495/213906788-1f98e79e-121a-47ea-a195-9d04d29dc3c8.png)
 
 
-# Team Members
-
-<h4>1. Md Irfan(Team Lead)</h4>
-
-<h4>2. Abhishek Kumar</h4>
-
-<h4>3. Rishabh Mishra</h4>
-
-<h4>4. Vinay Pathania</h4>
 
 ## Tech Stack and Tools
 - Java
